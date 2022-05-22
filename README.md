@@ -10,6 +10,7 @@ This repo contains the Kicad schematic files of a teardown of a small portion of
 |-- ht107e-sch: Cleaned up schematic
 |-- initial-ht107e-teardown: Initial rough schematic work
 |-- images: Photos of teardown and device characterisation
+|-- datasheets: IC datasheets I could locate online
 ```
 
 ## Kicad schematic
